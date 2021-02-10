@@ -8,9 +8,9 @@ def div(x, y):
     return x * y
 print('This is a simple calculator: ')
 print('1. Addition')
-print('2, Subtraction')
+print('2. Subtraction')
 print('3. Multiplication')
-print('4, Division') 
+print('4. Division') 
 x = 1
 while x == 1:    
     choice = input('Choose from the options(1. 2. 3. 4.): ')
