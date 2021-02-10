@@ -24,3 +24,5 @@ while x == 1:
         print(f'{num1} * {num2} = {mul(num1, num2)}')
     if choice == '4':
         print(f'{num1} / {num2} = {div(num1, num2)}')
+        
+        # enjoy :)
