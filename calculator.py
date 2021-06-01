@@ -5,7 +5,7 @@ def sub(x, y):
 def mul(x, y):
     return x * y
 def div(x, y):
-    return x * y
+    return x / y
 print('This is a simple calculator: ')
 print('1. Addition')
 print('2. Subtraction')
