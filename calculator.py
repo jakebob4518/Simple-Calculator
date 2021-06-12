@@ -18,8 +18,7 @@ print('''
     4 Division
 ''')
 
-x = 1
-while x == 1:    
+while True:    
     choice = input('Choose from the options(1. 2. 3. 4.): ')
     num1 = int(input('Enter first number: '))
     num2 = int(input('Enter second number: '))
